@@ -7,7 +7,7 @@
 # AArch64 Bytes
 A series of small ARM 64 bite-size articles to help one better reverse AArch64 ARM 64 Linux binaries.
 
-## Part 1 (Reversing Exit)
+## Part 1: Reversing Exit
 In this bite we learn about what happens at the very core of a 32-bit AArch64 instruction by reversing the exit Linux syscall.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-1-reversing-exit-f7e4775d5e14) to read the article on Medium.
