@@ -22,7 +22,5 @@ In this bite we learn how to create a simple parsing algorithm to convert a stri
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
 
-## UNDER CONSTRUCTION
-
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
